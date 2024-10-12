@@ -1,0 +1,12 @@
+A decision tree is a machine learning algorithm that uses a tree-like structure to model decisions and their possible outcomes: 
+Structure
+Decision trees are made up of a hierarchical model of nodes, including a root node, branches, internal nodes, and leaf nodes. Each non-leaf node contains a condition, or question, and each leaf node contains a prediction. 
+Purpose
+Decision trees are used for classification and regression tasks. Classification trees are used to classify data, while regression trees are used to predict what will come next. 
+Process
+To use a decision tree, an example is routed from the root node to a leaf node based on the conditions. The prediction is the value of the leaf node that is reached. 
+Benefits
+Decision trees are easy to construct and interpret, and can be used with numerical or categorical data. They can also help identify important data features that can be used with more complex machine learning algorithms. 
+Decision trees are often used by data scientists and analysts to explore new datasets. 
+
+A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes and leaf nodes.
